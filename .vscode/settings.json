@@ -7,4 +7,11 @@
     "editor.tabSize": 4,
     "editor.stickyTabStops": true,
     "editor.insertSpaces": false,
+
+    "[svelte]": {
+        "editor.tabSize": 3
+    },
+    "[typescript]": {
+        "editor.tabSize": 3
+    }
 }
